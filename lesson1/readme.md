@@ -15,7 +15,8 @@
 ### Задания
 *[ ] [Установить](https://golang.org/dl/) go 
 *[ ] [Прочитать]((https://golang.org/cmd/go/)) бегло про команду go
-*[ ] Прочитать [тут](https://riptutorial.com/ru/go) или [тут](https://www.digitalocean.com/community/tutorials/understanding-the-gopath) или [тут](https://habr.com/ru/post/249545/) или [тут](https://golang.org/doc/code.html#GOPATH) про папки, которые использует go 
+*[ ] Прочитать [тут](https://riptutorial.com/ru/go) или [тут](https://www.digitalocean.com/community/tutorials/understanding-the-gopath) или [тут](https://habr.com/ru/post/249545/) или [тут](https://golang.org/doc/code.html#GOPATH) про папки, которые использует go
+*[ ] [Прочитать](http://golang-book.ru/chapter-02-your-first-program.html) 
 *[ ] Выполнить шаги [отсюда](https://golang.org/doc/install), обязательно включая пункт "Test your installation"
 *[ ] Установить какой-нибудь редактор или IDE с поддержкой go, например, [goland](https://www.jetbrains.com/go/) или [vscode](https://code.visualstudio.com/docs/languages/go)
 *[ ] Установить git. Под windows вот этот можно клиент использовать [git-scm](https://git-scm.com/download/win)
